@@ -1,7 +1,6 @@
-body{
-  background-image:url(image.png);
-  background-repeat:no-repeat;
-  background-color:#243CED;
-  background-position:center top;
-  color:yellow;
+p#sn, p#so, p#si{
+  font-family: Verdana, sans-serif;
+}
+p#so{
+  font-variant:small-caps;
 }
